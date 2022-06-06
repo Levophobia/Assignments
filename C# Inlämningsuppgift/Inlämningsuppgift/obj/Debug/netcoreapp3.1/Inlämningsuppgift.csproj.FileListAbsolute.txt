@@ -1,0 +1,14 @@
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\bin\Debug\netcoreapp3.1\Inlämningsuppgift.exe
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\bin\Debug\netcoreapp3.1\Inlämningsuppgift.deps.json
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\bin\Debug\netcoreapp3.1\Inlämningsuppgift.runtimeconfig.json
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\bin\Debug\netcoreapp3.1\Inlämningsuppgift.runtimeconfig.dev.json
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\bin\Debug\netcoreapp3.1\Inlämningsuppgift.dll
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\bin\Debug\netcoreapp3.1\Inlämningsuppgift.pdb
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\netcoreapp3.1\Inlämningsuppgift.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\netcoreapp3.1\Inlämningsuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\netcoreapp3.1\Inlämningsuppgift.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\netcoreapp3.1\Inlämningsuppgift.AssemblyInfo.cs
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\netcoreapp3.1\Inlämningsuppgift.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\netcoreapp3.1\Inlämningsuppgift.dll
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\netcoreapp3.1\Inlämningsuppgift.pdb
+C:\Users\chris\source\repos\Inlämningsuppgift\Inlämningsuppgift\obj\Debug\netcoreapp3.1\Inlämningsuppgift.genruntimeconfig.cache
