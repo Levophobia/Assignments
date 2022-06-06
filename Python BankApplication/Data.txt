@@ -1,0 +1,5 @@
+111111:Manuel:19911216:1001:debit account:200.0
+111112:Rafael:19911111:1002:debit account:5500.0#1003:debit account:1000.0
+111113:Linnea:19860107:1004:debit account:0.0#1005:debit account:500.0
+111114:Christoffer:19910114:1006:debit account:100.0#1007:debit account:325.0#1008:debit account:450.0
+111115:Ta bort:19910112:1009:debit account:95.0
